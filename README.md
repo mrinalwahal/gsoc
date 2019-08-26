@@ -48,7 +48,7 @@ The micro-service that was proposed in the aforementioned abstract is complete a
 
 ### What is left to be done?
 
-Almost all of the fundamental features required to make the micro-service work are done and completed. However, there are certain issues tagged as **discussion** and/or **advancement** in the [official work repository](https://github.com/G-Node/gin-proc). These issues signify the advanced features that were decided mutually with the mentors and would go on to be open since they'll take a fairly long time (even after the GSoC programme ends) to be discussed, debated and then coded for the original micro-service. Therefore, these issues shall serve the purpose of informing the user's as to what is left to be done, or more aptly - what is about to come to the service in the near future!
+Almost all of the fundamental features required to make the micro-service work are done and completed. However, there are certain issues tagged as **discussion** and/or **advancement** in the [official work repository](https://github.com/G-Node/gin-proc). These issues signify the advanced features that were decided mutually with the mentors and would go on to be open since they'll take a fairly long time (even after the GSoC programme ends) to be discussed, debated and then coded for the original micro-service. Therefore, these issues shall serve the purpose of informing the users as to what is left to be done, or more aptly - what is about to come to the service in the near future!
 
 <a name="work-progress"></a>
 
